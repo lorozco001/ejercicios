@@ -1,7 +1,5 @@
 package otros;
 
-import java.util.Formatter;
-
 public class tablas {
 
 	public static void main(String[] args) {

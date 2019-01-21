@@ -1,6 +1,5 @@
 package ejercicios.iniciales;
 
-import java.util.Iterator;
 import java.util.Scanner;
 
 /*
